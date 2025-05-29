@@ -1,0 +1,16 @@
+{
+  "config": {
+    "safety_zones": {
+      "danger_zone": 0.5,
+      "warning_zone": 1.0,
+      "monitoring_zone": 2.0
+    },
+    "max_human_velocity": 2.0,
+    "emergency_stop_delay": 0.1,
+    "pose_detection_confidence": 0.5,
+    "tracking_history_length": 30
+  },
+  "violations": [],
+  "export_timestamp": 1748544830.0519185,
+  "total_violations": 0
+}
