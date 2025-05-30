@@ -13,4 +13,6 @@ pyserial>=3.5
 pytest>=7.0.0
 pytest-cov>=3.0.0
 black>=22.0.0
-flake8>=4.0.0 
+flake8>=4.0.0
+sentence-transformers>=2.2.0
+spacy>=3.5.0 
